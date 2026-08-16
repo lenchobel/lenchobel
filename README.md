@@ -1,4 +1,4 @@
-# Hey, I'm Lenchobel 👋
+# Hey, I'm Lencho Belay 👋
 
 I'm a student developer interested in **AI, software engineering, and building things that solve problems I actually care about.**
 
